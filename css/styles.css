@@ -34,12 +34,12 @@ ul {
   line-height: 1.17;
 }
 
-.menu-nav {
+.link-studio {
   font-size: 16px;
-  font-style: normal;
   font-weight: 500;
-  line-height: 24px;
-  letter-spacing: 0.32px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .menu-nav .link:hover,
@@ -115,6 +115,7 @@ ul {
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
+  letter-spacing: 0.02em;
 }
 
 .user-team {
